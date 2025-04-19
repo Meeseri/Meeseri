@@ -13,7 +13,6 @@ I like building cool stuff, breaking it (on purpose), and automating the boring 
 `Python` | `JavaScript` | `Power Automate` | `Docker` | `SQL` | `Bash` | `Linux` | `Azure` | `Entra ID` | `Arduino`
 
 ### 🔭 Currently:
-- Managing IT at an HVAC distributor and slowly taking over with automation 😈
 - Experimenting with AI + robotics to build a sassy little assistant bot
 - Learning ethical hacking + setting up blue team defenses
 
