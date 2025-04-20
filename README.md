@@ -1,4 +1,4 @@
-#  Hi, I'm Oli — Developer, IT Professional, Builder of Tools (and Myself)
+#  Hi, I'm Oliver — Developer, IT Professional, Builder of Tools (and Myself)
 
 Welcome to my GitHub!  
 I'm **Oli** — a dev with a deep love for learning, building, and documenting the process from chaos to clarity.
