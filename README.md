@@ -1,11 +1,11 @@
-# 🎧 Hi, I'm Oli — Developer, IT Professional, Builder of Tools (and Myself)
+#  Hi, I'm Oli — Developer, IT Professional, Builder of Tools (and Myself)
 
 Welcome to my GitHub!  
 I'm **Oli** — a dev with a deep love for learning, building, and documenting the process from chaos to clarity.
 
 ---
 
-## 🛠 What I'm Building
+##  What I'm Building
 
 Right now, I’m working on **Zenith Music** — a responsive, Tailwind-powered React dashboard for music exploration and future AI integration.  
 It started as a frontend learning challenge, but became a full-stack journey: Vite configs, Tailwind v4 hurdles, PostCSS chaos — and a serious documentation habit.
@@ -18,12 +18,12 @@ This project taught me how to:
 
 ---
 
-## 💼 My IT Journey
+##  My IT Journey
 
 Before React components and custom GPTs, I cut my teeth in **real-world IT**.  
 That foundation still shapes how I build, troubleshoot, and automate.
 
-🧠 I’ve worked across:
+ I’ve worked across:
 - Microsoft 365 / Entra ID (Azure AD)
 - Endpoint automation & scripting (PowerShell, Python)
 - Infrastructure setup and hardening
@@ -37,7 +37,7 @@ And most recently…
 
 I’ve been actively working on a **Wazuh-based security monitoring stack**, built on top of an Ubuntu environment and fine-tuned for real-world visibility and defense.
 
-🔐 What I've worked on:
+ What I've worked on:
 - Full Wazuh server deployment on **Ubuntu**
 - Secure onboarding of Wazuh agents across multiple systems
 - Custom log parsing and rule tuning for better signal-to-noise
@@ -54,7 +54,7 @@ This project ties directly into my passion for blending **IT fundamentals**, **s
 I didn’t just use AI during this process —  
 I **built my own.**
 
-🟣 [GPT-Zenith](https://chatgpt.com/g/g-6802bfdd7c4c8191afb0ddc99d00bf18-gpt-zenith) is a custom GPT I created using OpenAI’s GPT builder.  
+ [GPT-Zenith](https://chatgpt.com/g/g-6802bfdd7c4c8191afb0ddc99d00bf18-gpt-zenith) is a custom GPT I created using OpenAI’s GPT builder.  
 It’s trained to:
 - Debug Tailwind, React, Vite, and PostCSS setups
 - Assist with IT scripting, automation, and security tooling
@@ -67,7 +67,7 @@ I built GPT-Zenith to grow *with* me, and now others can use it too 👇
 
 ---
 
-## 💡 What Drives Me
+##  What Drives Me
 
 - Turning frustration into understanding
 - Building tools with empathy
@@ -78,8 +78,5 @@ I built GPT-Zenith to grow *with* me, and now others can use it too 👇
 Whether it’s IT infrastructure, frontend dev, or AI-assisted workflows — I’m here to keep learning, building, and making things better for whoever comes next.
 
 ---
-
-> *“This is what learning looks like — not perfect, not finished, but absolutely in motion.”*  
-> — Oli
 
 
