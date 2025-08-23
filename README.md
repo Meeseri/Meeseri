@@ -25,9 +25,10 @@ GPT-Zenith – my custom AI assistant for debugging + docs
 Zenith Music – React/Tailwind dashboard experiment
 
 Personal CLI tools, automations, and experiments
----
 
 🌱 What Drives Me
+---
+
 
 Build useful things
 
@@ -36,3 +37,4 @@ Automate the boring stuff
 Share the process
 
 Keep learning (and have fun doing it)
+
