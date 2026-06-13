@@ -1,20 +1,19 @@
-# Hi, I’m Oliver 👋
-### Developer • IT Professional • Builder of Tools (and Myself)
+# Hey, I'm Oliver
 
+Security nerd who builds things. IT background, security engineering brain, and a habit of automating anything that annoys me twice.
 
-### Background
+## What I'm up to
 
-Started in IT → grew into dev & automation.
-I like solving messy problems, securing systems, and turning chaos into clarity.
-
-## Side Projects
-
-Personal CLI tools, automations, and experiments
+Security tools, log enrichment pipelines... mostly security automation. I.e log collectors, API integrations, detection logic.
 
 ## What Drives Me
+
 - Build useful things
-- Automate the boring stuff
-- Share the process
-- Keep learning (and have fun doing it)
+- Share what I learn along the way
+- Keep leveling up (currently grinding CySA+ and TryHackMe)
+
+## Outside of Work
+
+PC hardware, gaming, and generally tinkering with anything that has a config file B)
 
 
